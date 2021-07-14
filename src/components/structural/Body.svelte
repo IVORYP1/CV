@@ -118,7 +118,7 @@
 					],
 				},
 				{
-					title: 'Junior Data Analyst',
+					title: 'Intern',
 					subtitle: 'Fingermark Full time Intern',
 					dates: `November 2020 - Febuary 2021`,
 					location: 'Havelock North, New Zealand',
