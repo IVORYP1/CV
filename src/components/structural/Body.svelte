@@ -58,9 +58,7 @@
 		{
 			type: 'skills',
 			label: 'Skills',
-			details: [
-				'JavaScript',	
-				'MongoDB',
+			details: [	
 				'PostgreSQL',
 				'MySQL',
 				'SQL server',
@@ -74,9 +72,10 @@
 				'python',
 				'YOLOv5',
 				'Donkey Car application',
-				'No code platform -Bubble',
-				'Agile',
-			    'Jira',
+				'Bubble',
+				'JavaScript',
+			    	'Jira',
+				'MongoDB'
 			],
 		},
 		{
