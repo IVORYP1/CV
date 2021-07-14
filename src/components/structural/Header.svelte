@@ -1,7 +1,7 @@
 <script>
 	export const name = 'Peter Ivory';
 	const summaryLines = [
-		'Wanting to get into a proper Data anlytical role to find may way to becoming a data scientist, i am interested in the feild machine learning. Always thinking about the user experience. Always brainstorming app ideas.',
+		'Wanting to get into a proper Data anlytical role to find my way to becoming a data scientist, I am interested in the feild machine learning. Always thinking about the user experience. Always brainstorming app ideas.',
 
 		// meaningful and impactful
 		// supporting the underdog
