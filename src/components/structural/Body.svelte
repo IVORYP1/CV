@@ -74,7 +74,7 @@
 				'Donkey Car application',
 				'Bubble',
 				'JavaScript',
-			    	'Jira',
+			    	//'Jira',
 				'MongoDB'
 			],
 		},
