@@ -1,4 +1,4 @@
-<script>
+ne<script>
 	import SideColumn from './SideColumn.svelte';
 	import MainColumn from './MainColumn.svelte';
 
@@ -105,7 +105,7 @@
 			label: 'Experience',
 			details: [
 				{
-					title: 'Data Analyst',
+					title: 'Partner',
 					subtitle: 'ioSoftworks',
 					dates: 'Febuary 2021 — Present',
 					location: 'Hastings, New Zealand',
